@@ -1,7 +1,8 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
 const team;
-const team1;
-const cap1
+let team1 = [...players];
+let cap1 = {...person};
+let team = players;
 
 
 const person = {
