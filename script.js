@@ -1,4 +1,8 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
+const team;
+const team1;
+const cap1
+
 
 const person = {
   name: "John Doe",
