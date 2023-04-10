@@ -1,5 +1,4 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
-const team;
 let team1 = [...players];
 let cap1 = {...person};
 let team = players;
